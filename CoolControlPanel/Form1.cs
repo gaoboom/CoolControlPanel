@@ -64,7 +64,6 @@ namespace CoolControlPanel
         public abstract class MySqlHelper
         {
             public static readonly string DBConnectionString = "Server=127.0.0.1;Database=resourcecool;Uid=root;Pwd=admin;";
-            //public static readonly string DBConnectionString = "Server=103.29.135.207;Database=resourcecool;Uid=cool_on;Pwd=C20!@5@L;";
             /// <summary>
             /// Command预处理
             /// </summary>
